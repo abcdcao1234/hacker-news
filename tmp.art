@@ -1,0 +1,1 @@
+<div>我叫{{name}}，我今年{{age}}岁，我{{status}}</div>
